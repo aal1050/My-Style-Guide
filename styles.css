@@ -1,0 +1,118 @@
+body {
+    font-family: raleway;
+    font-size: 18px;
+    background-color: #f0edea;
+}
+
+h1 {
+    text-align: center;
+}
+
+.section-box {
+    border: 1px solid black;
+    display: block;
+    padding-left: 10px;
+    margin: 10px auto;
+}
+
+
+.color-box {
+    border: 2px solid black;
+    display: inline-block;
+    width: 24%;
+    margin: 5px auto;
+    min-height: 100px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+.beige {
+    background-color: #DDD0C8;
+}
+
+.dark-grey {
+    background-color: #323232;
+    color: #fff;
+}
+
+.forest-green {
+    background-color: #506D1F;
+    color: #fff
+}
+
+.sky-blue {
+    background-color: #659DBD;
+}
+
+.sand {
+    background-color: #c9a483;
+}
+
+.sunset {
+    background-color: #d7a0cc;
+}
+
+.font-name {
+    text-decoration: underline;
+    font-size: large;
+}
+
+.font-example {
+    display: inline-block;
+    width: 45%;
+    margin: 0px auto;
+    min-height: 100px;
+    text-align: left;
+    font-weight: 900;
+}
+
+.lato {
+    font-family: lato;
+}
+
+.raleway {
+    font-family: raleway;
+}
+
+.regular {
+    font-weight: 400;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+.black {
+    font-weight: 800
+}
+
+.italic {
+    font-style: italic;
+}
+
+.styles-example h1 {
+    text-align: left;
+    Font-weight: 800;
+    Font-size: 32px;
+    Font-family: raleway;
+}
+
+.styles-example h2 {
+    Font-weight: 600;
+    Font-size: 26px;
+    Font-family: raleway;
+}
+
+.styles-example p {
+    Font-weight: 400;
+    Font-size: 18px;
+    Font-family: lato;
+}
+
+.styles-example .caption {
+    Font-weight: 400;
+    Font-size: 14px;
+    Font-family: lato;
+    font-style: italic;
+}
